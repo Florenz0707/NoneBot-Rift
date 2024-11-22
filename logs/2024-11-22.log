@@ -1746,3 +1746,11 @@ ModuleNotFoundError: No module named 'nonebot_plugin_emojimix'
 2024-11-22 21:44:15.705 | INFO     | uvicorn:asgi_send:271 - ('127.0.0.1', 4669) - "WebSocket /onebot/v11/ws" [accepted]
 2024-11-22 21:44:15.705 | INFO     | nonebot:log:336 - OneBot V11 | Bot 3247591708 connected
 2024-11-22 21:44:15.706 | INFO     | websockets:handshake:642 - connection open
+2024-11-22 21:50:08.089 | SUCCESS  | nonebot:handle_event:535 - OneBot V11 3247591708 | [message.group.normal]: Message 1575356483 from 3089636911@[群:293814211] '不影响'
+2024-11-22 21:55:13.040 | SUCCESS  | nonebot:handle_event:535 - OneBot V11 3247591708 | [message.group.normal]: Message 1866746682 from 1927298548@[群:798191809] '[image:file=000001464e61704361744f6e65426f747c4d736746696c657c327c3739383139313...,sub_type=0,file_id=000001464e61704361744f6e65426f747c4d736746696c657c327c3739383139313...,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhR-CwJT...,file_size=69704,file_unique=633d519595f84109d27cd23e1bf88a8d]'
+2024-11-22 21:55:15.030 | SUCCESS  | nonebot:handle_event:535 - OneBot V11 3247591708 | [message.group.normal]: Message 1491067738 from 1927298548@[群:798191809] '[at:qq=2559815776]'
+2024-11-22 21:55:36.628 | SUCCESS  | nonebot:handle_event:535 - OneBot V11 3247591708 | [message.group.normal]: Message 1639285439 from 2399486177@[群:293814211] '有的地方可能会看。'
+2024-11-22 21:55:43.145 | SUCCESS  | nonebot:handle_event:535 - OneBot V11 3247591708 | [message.group.normal]: Message 252420424 from 2399486177@[群:293814211] '你得看影响什么？'
+2024-11-22 21:56:28.424 | SUCCESS  | nonebot:handle_event:535 - OneBot V11 3247591708 | [message.group.normal]: Message 934777438 from 1927298548@[群:798191809] '[image:file=000001464e61704361744f6e65426f747c4d736746696c657c327c3739383139313...,sub_type=0,file_id=000001464e61704361744f6e65426f747c4d736746696c657c327c3739383139313...,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhTb16NG...,file_size=145582,file_unique=9f87b58defa6ccd1996e7f7a8355659d]'
+2024-11-22 21:56:33.519 | SUCCESS  | nonebot:handle_event:535 - OneBot V11 3247591708 | [message.group.normal]: Message 218408663 from 1927298548@[群:798191809] '可爱捏'
+2024-11-22 21:57:53.030 | SUCCESS  | nonebot:handle_event:535 - OneBot V11 3247591708 | [message.group.normal]: Message 1853701917 from 2246956661@[群:928654084] '_Ref 玩了 1 小时 29 分钟 Counter-Strike 2 后不玩了'
