@@ -21,4 +21,4 @@ Specially rename almost all commands in style of calling a function.
 Sorry, authors of plugins installed.
 
 ### Other
-Version: `0.1.1`
+Version: `0.1.2`
