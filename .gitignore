@@ -1,4 +1,5 @@
 /.env.prod
+/.venv/pyvenv.cfg
 logs/
 fonts/
 data/
